@@ -1,0 +1,12 @@
+{
+  "Failed to reserve device. (0x%08x)": "无法占用设备。(0x%08x)",
+  "Failed to launch ScanSnap Manager.app.": "无法启动 ScanSnap Manager 应用程序。",
+  "Scan from ScanSnap": "从 ScanSnap 扫描",
+  "Failed to release device. (0x%08x)": "无法释放设备。(0x%08x)",
+  "Failed to start scan. (0x%08x)": "无法开始扫描。(0x%08x)",
+  "MSG_ANALYRESULT_ERROR": "无法分析结果文件。",
+  "MSG_TITLE": "DEVONthink",
+  "MSG_OK_BUTTON": "好",
+  "ScanSnap Scanner": "ScanSnap 扫描仪",
+  "MSG_NOSUPPORTSCANSNAP": "找不到受支持的 ScanSnap Manager 应用程序。"
+}

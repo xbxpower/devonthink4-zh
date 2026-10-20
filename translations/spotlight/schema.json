@@ -1,0 +1,8 @@
+{
+  "com_DEVONtechnologies_think_RecordKind.Description": "文稿在 DEVONthink 数据库中的种类。",
+  "com_DEVONtechnologies_think_DatabaseName": "数据库",
+  "com_DEVONtechnologies_think_RecordAliases": "文稿别名",
+  "com_DEVONtechnologies_think_RecordAliases.Description": "文稿在 DEVONthink 数据库中的别名。",
+  "com_DEVONtechnologies_think_RecordKind": "文稿种类",
+  "com_DEVONtechnologies_think_DatabaseName.Description": "DEVONthink 数据库的名称。"
+}

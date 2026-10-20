@@ -1,0 +1,14 @@
+{
+ "OK": "好",
+ "Authenticate": "鉴定",
+ "Add password to keychain": "在我的钥匙串中记住此密码",
+ "Authentication": "鉴定",
+ "Host:": "服务器：",
+ "Realm:": "领域：",
+ "Log In": "登录",
+ "User:": "用户：",
+ "Password:": "密码：",
+ "Name:": "名称：",
+ "User or password not valid. Please try again.": "用户名或密码无效。请重试。",
+ "Cancel": "取消"
+}

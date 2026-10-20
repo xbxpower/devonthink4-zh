@@ -1,0 +1,11 @@
+{
+ "Ignore rich text commands": "忽略富文本命令",
+ "Customize Encodings List": "自定编码列表",
+ "Text Encoding:": "文本编码：",
+ "Automatic": "自动",
+ "Customize Encodings List...": "自定编码列表…",
+ "Select all": "全选",
+ "Clear all": "全部清除",
+ "Revert to default": "恢复默认",
+ "Enable the text encodings you would like to be able to use.": "启用您想要使用的文本编码。"
+}

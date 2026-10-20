@@ -1,0 +1,19 @@
+{
+  "Items from Yojimbo": "来自 Yojimbo 的项目",
+  "Notes from Evernote": "来自 Evernote 的笔记",
+  "No notebooks.": "没有笔记本。",
+  "%d added, %d skipped.": "已添加 %d 个，%d 个此前已导入。",
+  "%d added.": "已添加 %d 个。",
+  "References from Bookends": "来自 Bookends 的参考文献",
+  "Legacy version of Evernote is required.": "需要旧版 Evernote。",
+  "%d added, %d updated.": "已添加 %d 个，已更新 %d 个。",
+  "Notes from Evernote...": "来自 Evernote 的笔记…",
+  "%d notes added.": "已添加 %d 条笔记。",
+  "Bookmarks from HTML file...": "来自 HTML 文件的书签…",
+  "Importing...": "正在导入…",
+  "Groups": "群组",
+  "Unnamed": "未命名",
+  "Notebooks": "笔记本",
+  "Items from Notes": "来自“备忘录”的文件夹与附件",
+  "References from Bookends...": "来自 Bookends 的参考文献…"
+}

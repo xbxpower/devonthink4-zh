@@ -1,0 +1,9 @@
+{
+  "No sockets available": "没有可用的套接字",
+  "Start Web Server": "启动服务器",
+  "Stop Web Server": "停止服务器",
+  "Error starting server: %@": "启动服务器时出错：%@",
+  "Started server \"%@\" ()": "已启动服务器“%@” ()",
+  "Port already in use": "端口已被占用",
+  "%@'s DEVONthink Server": "%@ 的 DEVONthink Server"
+}

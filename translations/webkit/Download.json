@@ -1,0 +1,18 @@
+{
+ "%d items, %d active, %d done": "%d 个项目（%d 个进行中）- 已完成 %d 个",
+ "%.1f MB": "%.1f MB",
+ "Choose": "选择",
+ "%.1f of %.1f MB": "%.1f/%.1f MB",
+ "%.1f KB": "%.1f KB",
+ "%.1f of %.1f KB": "%.0f/%.0f KB",
+ "Start": "开始",
+ "%.1f KB/s": "%.1f KB/s",
+ "Stop": "停止",
+ "Don't Quit": "不退出",
+ "Download Directory": "下载目录",
+ "Importing...": "正在导入…",
+ "Downloads are in progress.": "下载正在进行中。",
+ "Downloads": "下载",
+ "Are you sure you want to quit? %@ is currently downloading %d files. If you quit now, it will not finish downloading these files.": "确定要退出吗？%@ 正在下载 %d 个文件。如果现在退出，这些文件将无法完成下载。",
+ "Quit": "退出"
+}

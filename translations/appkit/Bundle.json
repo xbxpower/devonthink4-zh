@@ -1,0 +1,21 @@
+{
+ "OK": "好",
+ "Your software is up-to-date": "您的软件已是最新版本",
+ "Slideshow \"%@\"": "幻灯片显示“%@”",
+ "Slideshow %d items": "幻灯片显示 %d 个项目",
+ "Please enable automation in System Preferences > Security & Privacy for %@ before attempting this operation again.": "请先在“系统设置”>“安全性与隐私”中为 %@ 启用自动化，然后再重试此操作。",
+ "Please enable full disk access in System Preferences > Security & Privacy for %@ before attempting this operation again.": "请先在“系统设置”>“安全性与隐私”中为 %@ 启用完全磁盘访问权限，然后再重试此操作。",
+ "Download": "下载",
+ "Quick Look %d items": "快速查看 %d 个项目",
+ "Close Quick Look": "关闭快速查看",
+ "Slideshow": "幻灯片显示",
+ "You are running %@ %@. No newer version was found.": "您正在使用 %@ %@。未找到更新的版本。",
+ "System Preferences": "打开系统设置",
+ "Automation is Required": "需要自动化权限",
+ "Quick Look": "快速查看",
+ "Full Disk Access is Required": "无完全磁盘访问权限",
+ "A New Version is Available": "有新版本可用",
+ "Quick Look \"%@\"": "快速查看“%@”",
+ "A new version of %@ is available (%@). Would you like to download the new version now?": "%@ 有新版本可用（%@）。要现在下载新版本吗？",
+ "Cancel": "取消"
+}

@@ -1,0 +1,20 @@
+{
+ "Replace all occurrences of the Find string with replacement string": "将查找字符串的所有匹配项替换为替换字符串",
+ "Replace All": "全部替换",
+ "Next": "下一个",
+ "Find:": "查找：",
+ "Entire File": "整个文稿",
+ "Replace": "替换",
+ "Find previous occurrence of the Find string": "查找查找字符串的上一个匹配项",
+ "Previous": "上一个",
+ "Ignore Case": "忽略大小写",
+ "Find": "查找",
+ "%d replaced": "已替换 %d 处",
+ "Find next occurrence of the Find string": "查找查找字符串的下一个匹配项",
+ "Not found": "未找到",
+ "Replace current selection with the replacement\nstring and find next occurence of the Find string": "将当前所选内容替换为替换字符串，\n并查找查找字符串的下一个匹配项",
+ "Replace & Find": "替换并查找",
+ "Replace with:": "替换为：",
+ "Replace current selection with the replacement string": "将当前所选内容替换为替换字符串",
+ "Simple:": "查找："
+}

@@ -1,0 +1,10 @@
+{
+ "Failed": "失败",
+ "%.1f KB, %.1f KB/s": "%.0f KB，%.1f KB/s",
+ "%.1f of %.1f KB, %.1f KB/s": "%.0f/%.0f KB，%.1f KB/s",
+ "Succeeded": "成功",
+ "Waiting": "已排队",
+ "Retry": "重试",
+ "Loading": "正在载入…",
+ "Skipped": "已跳过"
+}

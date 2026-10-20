@@ -1,0 +1,18 @@
+{
+  "The %@ application is still running. Try to quit it again or click \"Cancel\" to stop this configuration process.": "%@ 应用程序仍在运行。请再次尝试退出，或点按“取消”以停止此配置过程。",
+  "OK": "好",
+  "Can't save file in folder `%@', check write permissions!": "无法在文件夹“%@”中存储文件，请检查写入权限！",
+  "%@ support is installed but %@ is not the default application.": "已安装 %1$@ 支持，但 %2$@ 不是默认应用程序。",
+  "Can't find any preferences for the %@ application. After that application has started, go to the \"Setting...\" menu and click OK. Then quit it and return to %@.": "找不到 %@ 应用程序的任何偏好设置。请在该应用程序启动后，前往“设置…”菜单并点按“好”。然后退出它并返回 %@。",
+  "Couldn't quit application.": "无法退出应用程序。",
+  "Quit it for me": "帮我退出",
+  "This application can't run while the support is being installed.": "安装支持文件期间，此应用程序无法运行。",
+  "You may need to manually disable the Quick Menu option in ScanSnap Manager's Dock menu.": "您可能需要在 ScanSnap Manager 的 Dock 菜单中手动停用“快速菜单”选项。",
+  "Install %@ %@ Support": "安装 %@ %@ 支持",
+  "An error occurred while installing the support files!": "安装支持文件时出错！",
+  "Fix %@ %@ Support": "修复 %@ %@ 支持",
+  "If you decide to install direct support, the scans you make will be sent to %@ after an OCR operation. This means that the full power of classification can be applied to your scanned documents.": "如果您决定安装直接支持，您的扫描件将在 OCR 处理后发送到 %@。这意味着可以对您扫描的文稿充分运用归类功能。",
+  "Please quit %@": "请退出 %@",
+  "Fix": "修复",
+  "Cancel": "取消"
+}
